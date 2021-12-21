@@ -4,7 +4,8 @@ This is an interpreter written in go for a brainfuck-based 'language' called €
 
 
 # Instructions:
-```o increment the current cell's value
+```
+o increment the current cell's value
 u decrement the current cell's value
 
 e move the cell pointer left
@@ -15,4 +16,5 @@ s end a loop
 
 * read a byte
 € print a byte
-t print and clear a byte```
+t print and clear a byte
+```
